@@ -4,4 +4,4 @@
 2- Extract a page from the PDF.\
 3- Split a PDF into seprated pages.
 ## credits
-Both split and extract functions were coded by Zeyad Mohamed Arafat.
+Both split and extract functions were added by Zeyad Mohamed Arafat.
